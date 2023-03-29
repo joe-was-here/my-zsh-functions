@@ -1,5 +1,5 @@
 You need to set your open api key as an environment variable
-`echo 'export OPENAI_API_KEY="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"' >> ~/.zshrc`
+`echo 'export OPENAI_API_KEY="your_api_key"' >> ~/.zshrc`
 
 Put these in a folder somewhere like `~/.zsh-functions`
 
